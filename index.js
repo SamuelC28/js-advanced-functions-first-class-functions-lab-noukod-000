@@ -22,7 +22,7 @@ const selectingDrivers = [
     returnLastTwoDrivers
 ];
 
-function selectDifferentDrivers(arrayOfDrivers, function) {
+function selectDifferentDrivers(drivers, sdrv) {
   returnLastTwoDrivers()
 }
 function selectDifferentDrivers(drivers, cb){
