@@ -8,5 +8,5 @@ const returnLastTwoDrivers = function (drivers) {
 const createFareMultiplier = function(int) {
     return function(value){
       return int *  value;
-    }    
+    }
 }
